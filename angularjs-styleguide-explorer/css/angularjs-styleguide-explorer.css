@@ -1,5 +1,5 @@
+
 body {
-    background-color: #f0f0f0;
     color: #404040;
     padding: 20px;
 }
@@ -179,3 +179,8 @@ div.text
     padding: 10px;
     background-color: #f0f0f0;
 }
+
+body {
+  background-color: #f0f0f0; }
+
+/*# sourceMappingURL=app.css.map */
